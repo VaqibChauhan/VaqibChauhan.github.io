@@ -1,0 +1,920 @@
+[
+  {
+    "id": 2,
+    "key": "Label_58_2_1562828997398",
+    "Name": "Undefined",
+    "Type": "string",
+    "isNew": true,
+    "label": "Label",
+    "order": 0,
+    "seqNo": 2,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Text",
+        "Type": "text",
+        "Value": "Title"
+      },
+      {
+        "Name": "Text Color",
+        "Type": "color",
+        "Value": ""
+      },
+      {
+        "Name": "align",
+        "Type": "dropdown",
+        "Value": "align-left",
+        "PossibleValue": [
+          "align-left",
+          "align-center",
+          "align-right"
+        ]
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Full",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Font Size",
+        "Type": "number",
+        "Value": ""
+      },
+      {
+        "Name": "font style",
+        "Type": "checkbox",
+        "Value": [],
+        "PossibleValue": [
+          "Bold",
+          "Italic",
+          "Underline"
+        ]
+      },
+      {
+        "Name": "Tool Tip",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Background",
+        "Type": "color",
+        "Value": ""
+      }
+    ],
+    "$$hashKey": "object:5150"
+  },
+  {
+    "id": 3,
+    "key": "Text Field_58_3_1562828997853",
+    "Name": "Undefined",
+    "Type": "text",
+    "isNew": true,
+    "label": "Text Field",
+    "order": 1,
+    "seqNo": 3,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Placeholder",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Tool Tip",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5151"
+  },
+  {
+    "id": 4,
+    "key": "Email_58_4_1562828998270",
+    "Name": "Undefined",
+    "Type": "email",
+    "isNew": true,
+    "label": "Email",
+    "order": 2,
+    "seqNo": 4,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Email"
+      },
+      {
+        "Name": "Placeholder",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Tool Tip",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5152"
+  },
+  {
+    "id": 5,
+    "key": "Number_58_5_1562828998695",
+    "Name": "Undefined",
+    "Type": "number",
+    "isNew": true,
+    "label": "Number",
+    "order": 3,
+    "seqNo": 5,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Placeholder",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Tool Tip",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Min",
+        "Type": "number",
+        "Value": null
+      },
+      {
+        "Name": "Max",
+        "Type": "number",
+        "Value": null
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5153"
+  },
+  {
+    "id": 6,
+    "key": "Textarea_58_6_1562828999131",
+    "Name": "Undefined",
+    "Type": "textarea",
+    "isNew": true,
+    "label": "Textarea",
+    "order": 4,
+    "seqNo": 6,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Placeholder",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Tool Tip",
+        "Type": "text",
+        "Value": ""
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5154"
+  },
+  {
+    "id": 7,
+    "key": "Dropdown_58_7_1562828999493",
+    "Name": "Undefined",
+    "Type": "dropdown",
+    "isNew": true,
+    "label": "Dropdown",
+    "order": 5,
+    "seqNo": 7,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Choose Option",
+        "Type": "master-option",
+        "Value": "Static",
+        "PossibleValue": [
+          "Master",
+          "Static"
+        ]
+      },
+      {
+        "Name": "Choice",
+        "Type": "dropdown-option",
+        "PossibleValue": [
+          {
+            "\nText": "Choice 1",
+            "$$hashKey": "object:5235"
+          },
+          {
+            "Text": "Choice 2",
+            "$$hashKey": "object:5236"
+          }
+        ]
+      },
+      {
+        "Name": "Master",
+        "Type": "dropdown-master",
+        "Field": {},
+        "Value": "1",
+        "fieldOptions": []
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "isMaster": false,
+    "$$hashKey": "object:5156"
+  },
+  {
+    "id": 8,
+    "key": "Checkbox_58_8_1562828999908",
+    "Name": "Undefined",
+    "Type": "checkbox",
+    "isNew": true,
+    "label": "Checkbox",
+    "order": 6,
+    "seqNo": 8,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Choice",
+        "Type": "table-increament",
+        "PossibleValue": [
+          {
+            "Name": "Choice 1",
+            "value": "choice-1",
+            "$$hashKey": "object:5243"
+          },
+          {
+            "Name": "Choice 2",
+            "value": "choice-2",
+            "$$hashKey": "object:5244"
+          }
+        ]
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          },
+          {
+            "Name": "Show-Inline",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5157"
+  },
+  {
+    "id": 9,
+    "key": "Radio_58_9_1562829000270",
+    "Name": "Undefined",
+    "Type": "radio",
+    "isNew": true,
+    "label": "Radio",
+    "order": 7,
+    "seqNo": 9,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Choice",
+        "Type": "table-increament",
+        "PossibleValue": [
+          {
+            "Name": "Choice 1",
+            "value": "choice-1",
+            "$$hashKey": "object:5254"
+          },
+          {
+            "Name": "Choice 2",
+            "value": "choice-2",
+            "$$hashKey": "object:5255"
+          }
+        ]
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          },
+          {
+            "Name": "Show-Inline",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5158"
+  },
+  {
+    "id": 10,
+    "key": "List Box_58_10_1562829000638",
+    "Name": "Undefined",
+    "Type": "multiple-dropdown",
+    "isNew": true,
+    "label": "List Box",
+    "order": 8,
+    "seqNo": 10,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "List Box"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Choice",
+        "Type": "dropdown-option",
+        "PossibleValue": [
+          {
+            "Text": "Choice 1",
+            "$$hashKey": "object:5265"
+          },
+          {
+            "Text": "Choice 2",
+            "$$hashKey": "object:5266"
+          }
+        ]
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5159"
+  },
+  {
+    "id": 11,
+    "key": "Date_58_11_1562829001277",
+    "Name": "Undefined",
+    "Type": "date",
+    "isNew": true,
+    "label": "Date",
+    "order": 9,
+    "seqNo": 11,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Date"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Date Format",
+        "Type": "date-format",
+        "Value": "dd MMM yyyy",
+        "PossibleValue": [
+          "dd-MMM-yyyy",
+          "MM/dd/yyyy",
+          "dd MMM yyyy"
+        ]
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5160"
+  },
+  {
+    "id": 12,
+    "key": "Time_58_12_1562829001880",
+    "Name": "Undefined",
+    "Type": "time",
+    "isNew": true,
+    "label": "Time",
+    "order": 10,
+    "seqNo": 12,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Field Label",
+        "Type": "text",
+        "Value": "Field Label"
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Half",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "Time Format",
+        "Type": "radio",
+        "Value": "12H",
+        "PossibleValue": [
+          "12H",
+          "24H"
+        ]
+      },
+      {
+        "Name": "Permissions",
+        "Type": "permissions",
+        "Value": "Permissions"
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Required",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5161"
+  },
+  {
+    "id": 13,
+    "key": "Table_58_13_1562829002596",
+    "Name": "Undefined",
+    "Type": "table",
+    "isNew": true,
+    "label": "Table",
+    "order": 11,
+    "seqNo": 13,
+    "Active": true,
+    "Settings": [
+      {
+        "Name": "Text",
+        "Type": "text",
+        "Value": "Single Text"
+      },
+      {
+        "Name": "Row",
+        "Type": "number",
+        "Value": 8
+      },
+      {
+        "Name": "Column",
+        "Type": "number",
+        "Value": 8
+      },
+      {
+        "Name": "Width",
+        "Type": "dropdown",
+        "Value": "Full",
+        "PossibleValue": [
+          "Full",
+          "Half"
+        ]
+      },
+      {
+        "Name": "General Options",
+        "Type": "checkBoxZone",
+        "Options": [
+          {
+            "Name": "Fixed Row Header",
+            "Value": false
+          },
+          {
+            "Name": "Fixed Column Header",
+            "Value": false
+          },
+          {
+            "Name": "Add Rows Runtime",
+            "Value": false
+          }
+        ]
+      }
+    ],
+    "$$hashKey": "object:5162",
+    "tableField": {
+      "0": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "1": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "2": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "3": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "4": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "5": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "6": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      },
+      "7": {
+        "0": {
+          "Type": "text"
+        },
+        "1": {
+          "Type": "text"
+        },
+        "2": {
+          "Type": "text"
+        },
+        "3": {
+          "Type": "text"
+        },
+        "4": {
+          "Type": "text"
+        },
+        "5": {
+          "Type": "text"
+        },
+        "6": {
+          "Type": "text"
+        },
+        "7": {
+          "Type": "text"
+        }
+      }
+    }
+  }
+]
