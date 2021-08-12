@@ -1,20 +1,20 @@
 {
   "particles": {
     "number": {
-      "value": 92,
+      "value": 80,
       "density": {
         "enable": true,
-        "value_area": 450
+        "value_area": 800
       }
     },
     "color": {
-      "value": "#0D5BD3"
+      "value": "#ffffff"
     },
     "shape": {
       "type": "circle",
       "stroke": {
-        "width": 1,
-        "color": "#ff3333"
+        "width": 0,
+        "color": "#000000"
       },
       "polygon": {
         "nb_sides": 5
@@ -26,30 +26,30 @@
       }
     },
     "opacity": {
-      "value": 0.8,
+      "value": 0.5,
       "random": false,
       "anim": {
         "enable": false,
-        "speed": 4,
+        "speed": 1,
         "opacity_min": 0.1,
         "sync": false
       }
     },
     "size": {
-      "value": 2,
+      "value": 5,
       "random": true,
       "anim": {
         "enable": false,
         "speed": 40,
         "size_min": 0.1,
-        "sync": true
+        "sync": false
       }
     },
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#ff3333",
-      "opacity": 0.3,
+      "color": "#ffffff",
+      "opacity": 0.4,
       "width": 1
     },
     "move": {
@@ -59,7 +59,6 @@
       "random": false,
       "straight": false,
       "out_mode": "out",
-      "bounce": false,
       "attract": {
         "enable": false,
         "rotateX": 600,
@@ -88,23 +87,30 @@
         }
       },
       "bubble": {
-        "distance": 200,
-        "size": 10,
-        "duration": 3,
-        "opacity": 1,
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
         "speed": 3
       },
       "repulse": {
-        "distance": 130,
-        "duration": 0.4
+        "distance": 200
       },
       "push": {
-        "particles_nb": 8
+        "particles_nb": 4
       },
       "remove": {
         "particles_nb": 2
       }
     }
   },
-  "retina_detect": true
+  "retina_detect": true,
+  "config_demo": {
+    "hide_card": false,
+    "background_color": "#b61924",
+    "background_image": "",
+    "background_position": "50% 50%",
+    "background_repeat": "no-repeat",
+    "background_size": "cover"
+  }
 }
